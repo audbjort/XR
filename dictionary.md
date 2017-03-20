@@ -4,8 +4,8 @@ XR (VR/MR/AR ...) Dictionary
 ## Table of Contents
 
 - [Augmented Reality](#augmented-reality)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
+- [Mixed Reality](#mixed-reality)
+- [Virtual Reality](#virtual-reality)
 
 TODO
 TODO
@@ -29,15 +29,16 @@ TODO
 
 
 ## Augmented Reality
-============
 Augmented Reality (AR)
 TODO
 TODO
 TODO
 
 
-Mixed Reality (MR)
+## Mixed Reality
+ Mixed Reality (MR)
 TODO
 
-Vistual Reality (VR)
+## Virtual Reality
+Virtual Reality (VR)
 TODO
