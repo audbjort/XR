@@ -4,6 +4,7 @@ XR (VR/MR/AR ...) Dictionary
 ## Table of Contents
 
 - [Augmented Reality](#augmented-reality)
+- [FPS](#fps-frames-per-second)
 - [Mixed Reality](#mixed-reality)
 - [Virtual Reality](#virtual-reality)
 
@@ -34,6 +35,8 @@ TODO
 TODO
 TODO
 
+## FPS Frames Per Second
+FPS stand for frames per second, a measurement for how many unique consecutive images a camera can handle each second. Digital cameras comparaison: low-end digital still cameras typically have a frame rate of 1fps. High end digital video cameras typically have a frame rate of 30fps. 
 
 ## Mixed Reality
  Mixed Reality (MR)
