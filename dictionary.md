@@ -1,5 +1,7 @@
-XR (VR/MR/AR ...) Dictionary
+XR . . . VR Dictionary | AR Dictionary | MR Dictionary
+
 =========
+### This is a dictionary for Virtual Reality, Augmented Reality and Mixed Reality.
 
 <!--
 https://guides.github.com/features/mastering-markdown/
@@ -10,11 +12,14 @@ https://guides.github.com/features/mastering-markdown/
  - [Applications](#applications)
 - [Augmented Reality](#augmented-reality)
 - [Companies](#companies)
+  - [Eye Tracking](#eye-tracking)
 - [Data](#data)
 - [Fovea](#fovea)
 - [Foveated rendering](#foveated-rendering)
 - [FPS (Frames Per Second)](#fps-frames-per-second)
 - [Headset Types](#headset-type)
+  - [Tethered](#tethered)
+  - [Mobile](#mobile)
 - [Khronos VR API](#khronos-vr-api)
 - [Mixed Reality](#mixed-reality)
 - [Neurons](#neurons)
@@ -47,13 +52,11 @@ TODO
 
 
 ## Augmented Reality
-Augmented Reality (AR)
-TODO
-TODO
-TODO
+In Augmented Reality (AR) you see some virtual elements (i.e. graphics, sounds, and touch) are added into the real life: imagine seeing a Pokemon on your mouse or a Light Saber sitting on your table. AR is closer to the real life with some "fake" elements.
+
 
 ## Companies
-Eye-tracking:
+## Eye-tracking
 * Fove: 
 a kickstarter-funded project, is the first VR headset to have embedded eye-tracking. Others are not far behind.
 * Eyefluence 
@@ -81,25 +84,25 @@ The part of the retina that can see significant detail
 FPS stand for frames per second, a measurement for how many unique consecutive images a camera can handle each second. Digital cameras comparaison: low-end digital still cameras typically have a frame rate of 1fps. High end digital video cameras typically have a frame rate of 30fps. 
 
 ## Headset type
-Tethered: The headset connects to a desktop/ps or a playstation and renders applications like games, social, etc. on the desktop
+## Tethered
+The headset connects to a desktop/ps or a playstation and renders applications like games, social, etc. on the desktop
 
-Mobile: The headset connects to a mobile phone and reders app content.
+## Mobile
+The headset connects to a mobile phone and reders app content.
 
 ## Khronos VR API
 The VR standard
 https://www.khronos.org/news/press/khronos-announces-vr-standards-initiative
 
 ## Mixed Reality
- Mixed Reality (MR)
-TODO
+ In Mixed Reality (MR) real world and virtual world are mixed and interact. Imagine a Leprechaun that is knoking over your "real" trash can.  
 
 ## Neurons
 A neuron is a nerve cell. The human brain is made up of approximately 100 billion neurons. A neuron has inputs called dendrites and outputs called axons.
 https://faculty.washington.edu/chudler/what.html
 
 ## Virtual Reality
-Virtual Reality (VR)
-TODO
+In Virtual Reality (VR) the world is all virtual like in a computer game.
 
 ## VR Challanges
 * Headache, queasiness, blurred vision, etc.
